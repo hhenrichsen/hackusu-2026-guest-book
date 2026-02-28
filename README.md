@@ -2,3 +2,4 @@
 
 *People who came to this presentation:*
 - Hunter Henrichsen
+- Joshua Liddell
